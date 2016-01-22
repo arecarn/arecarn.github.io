@@ -5,9 +5,25 @@ body {
   min-height: 200px;
   padding: 1em;
   margin: 5% 10%;
-  border: thin solid gray;
-  border-radius: 5px;
   display: block;
+}
+
+pre {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left:1em;
+    margin-right: 1em;
+    padding: 1em;
+    background-color: #eee;
+}
+
+/* nav { */
+    /* list-style: none; */
+
+/* } */
+
+#banner {
+    text-align: center;
 }
 
 #menu li {
@@ -19,7 +35,4 @@ body {
     margin-top: 1em;
 }
 
-pre {
-    margin: 2em 1em 2em 4em;
-}
 
