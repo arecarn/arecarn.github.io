@@ -1,8 +1,6 @@
 body {
   background-color: white;
   width: 80%;
-  min-width: 400px;
-  min-height: 200px;
   padding: 1em;
   margin: 5% 10%;
   display: block;
@@ -16,16 +14,6 @@ pre {
     padding: 1em;
     background-color: #eee;
 }
-
-/* nav { */
-    /* list-style: none; */
-
-/* } */
-
-#banner {
-    text-align: center;
-}
-
 #menu li {
     display: inline;
 }
