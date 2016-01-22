@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+  width: 80%;
+  min-width: 400px;
+  min-height: 200px;
+  padding: 1em;
+  margin: 5% 10%;
+  display: block;
+}
+
+pre {
+    /* margin: 2em 1em 2em 4em; */
+    margin-top: 2em;
+    margin-right: 1em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+    padding: 1em;
+    /* border: thin solid gray; */
+    /* border-radius: 5px; */
+    background-color: #eee;
+}
+
+/* nav { */
+    /* list-style: none; */
+
+/* } */
+
+#banner {
+    text-align: center;
+}
+
+#menu li {
+    display: inline;
+}
+
+#post-list {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+
